@@ -1,6 +1,4 @@
-# Financial Fraud Detection Using AI
 
-Get Deeper Understanding from motivation to data collection to model training to final results you can checkout the project blogs here: https://www.amitkedia.com/project/67ce1a818013ee818192b171
 ## Project Overview
 
 **Introduction:** This project utilizes machine learning, deep learning, and Large Language Models (LLMs) to detect financial fraud. It's based on a comprehensive dataset derived from financial filings to the U.S. Securities and Exchange Commission (SEC), aiming to compare and enhance AI models in identifying fraudulent financial activities.
@@ -27,3 +25,4 @@ The project encompasses a variety of models, including Logistic Regression, SVM,
 
 
 ##
+
