@@ -24,5 +24,6 @@ Preprocessing steps involve text cleaning, tokenization, and transforming data i
 The project encompasses a variety of models, including Logistic Regression, SVM, Random Forest, XGBoost, ANN, HAN, GPT-2, and FinBERT, selected for their NLP capabilities and potential in fraud detection.
 
 
+
+
 ##
-*
