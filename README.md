@@ -23,38 +23,6 @@ Preprocessing steps involve text cleaning, tokenization, and transforming data i
 
 The project encompasses a variety of models, including Logistic Regression, SVM, Random Forest, XGBoost, ANN, HAN, GPT-2, and FinBERT, selected for their NLP capabilities and potential in fraud detection.
 
-## To Reproduce
 
-**Codebase:** Complete code for data extraction, preprocessing, model training, and evaluation is available in this repository.
-
-**Environment:** A `requirements.txt` file is provided for setting up a consistent environment.
-
-**Documentation:** Each script is documented with clear instructions in the `README.md`, guiding through environment setup, script execution, and result interpretation.
-
-## Contribution Guidelines
-
-**Getting Started:**
-- Fork the repository.
-- Setup your environment with `requirements.txt`.
-- Familiarize yourself with the code and dataset.
-
-**Contributing:**
-- Add or improve models, or refine preprocessing methods.
-- Ensure your code is documented and aligns with the project's style.
-- Submit pull requests with a detailed description of changes.
-
-**Reporting Issues:**
-- Use GitHub Issues for bug reports, feature requests, or discussions.
-- Provide detailed bug descriptions and reproduction steps.
-
-**Community:**
-- Engage in discussions, share results, ask questions.
-- Adhere to community guidelines for a collaborative environment.
-
-## License
-
-This project is open-source, available under MIT License.
-
-## Acknowledgements
-
-Thanks to all contributors and community members for their valuable participation and insights in advancing AI in financial fraud detection.
+##
+*
